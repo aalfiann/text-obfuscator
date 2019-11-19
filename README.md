@@ -34,7 +34,7 @@ $ npm install text-obfuscator
 
 <!-- Get a specific version -->
 <!-- Recommended for production sites! -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0.0/src/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0.1/src/text-obfuscator.min.js"></script>
 ```
 
 ### Usage

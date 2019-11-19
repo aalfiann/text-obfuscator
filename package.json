@@ -1,6 +1,6 @@
 {
   "name": "text-obfuscator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Text Obfuscator for NodeJS or Browser",
   "main": "src/text-obfuscator.js",
   "scripts": {
