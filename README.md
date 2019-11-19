@@ -24,17 +24,17 @@ $ npm install text-obfuscator
 ```html
 <!-- Always get the latest version -->
 <!-- Not recommended for production sites! -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator/src/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator/dist/text-obfuscator.min.js"></script>
 
 <!-- Get minor updates and patch fixes within a major version -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1/src/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1/dist/text-obfuscator.min.js"></script>
 
 <!-- Get patch fixes within a minor version -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0/src/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0/dist/text-obfuscator.min.js"></script>
 
 <!-- Get a specific version -->
 <!-- Recommended for production sites! -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0.1/src/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0.2/dist/text-obfuscator.min.js"></script>
 ```
 
 ### Usage

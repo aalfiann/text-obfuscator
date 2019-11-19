@@ -1,5 +1,5 @@
 /*!
- * TextObfuscator v1.0.1 ES5 [Browser]
+ * TextObfuscator v1.0.2 ES5 [Browser]
  * https://github.com/aalfiann/text-obfuscator
  *
  * Copyright 2019 M ABD AZIZ ALFIAN
