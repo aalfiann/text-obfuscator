@@ -1,14 +1,15 @@
 # text-obfuscator
-[![NPM](https://nodei.co/npm/text-obfuscator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/text-obfuscator/)  
+[![NPM](https://nodei.co/npm/text-obfuscator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/text-obfuscator/)
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)  
   
 [![npm version](https://img.shields.io/npm/v/text-obfuscator.svg?style=flat-square)](https://www.npmjs.org/package/text-obfuscator)
 [![Build Status](https://travis-ci.org/aalfiann/text-obfuscator.svg?branch=master)](https://travis-ci.org/aalfiann/text-obfuscator)
 [![Coverage Status](https://coveralls.io/repos/github/aalfiann/text-obfuscator/badge.svg?branch=master)](https://coveralls.io/github/aalfiann/text-obfuscator?branch=master)
 [![Known Vulnerabilities](https://snyk.io//test/github/aalfiann/text-obfuscator/badge.svg?targetFile=package.json)](https://snyk.io//test/github/aalfiann/text-obfuscator?targetFile=package.json)
-[![dependencies Status](https://david-dm.org/aalfiann/text-obfuscator/status.svg)](https://david-dm.org/aalfiann/text-obfuscator)
 ![License](https://img.shields.io/npm/l/text-obfuscator)
 ![NPM download/month](https://img.shields.io/npm/dm/text-obfuscator.svg)
-![NPM download total](https://img.shields.io/npm/dt/text-obfuscator.svg)  
+![NPM download total](https://img.shields.io/npm/dt/text-obfuscator.svg)
+[![](https://data.jsdelivr.com/v1/package/npm/text-obfuscator/badge)](https://www.jsdelivr.com/package/npm/text-obfuscator)  
 Simple Text Obfuscator for NodeJS or Browser.
 
 Because sometimes we want to obfuscate a text in client browser for `key`, `id`, `base64`, etc.
@@ -30,11 +31,11 @@ $ npm install text-obfuscator
 <script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1/dist/text-obfuscator.min.js"></script>
 
 <!-- Get patch fixes within a minor version -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0/dist/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.1/dist/text-obfuscator.min.js"></script>
 
 <!-- Get a specific version -->
 <!-- Recommended for production sites! -->
-<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.0.2/dist/text-obfuscator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/text-obfuscator@1.1.0/dist/text-obfuscator.min.js"></script>
 ```
 
 ### Usage

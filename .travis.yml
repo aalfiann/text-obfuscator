@@ -1,15 +1,17 @@
 language: node_js
 node_js:
   - "node"
+  - "14"
+  - "12"
   - "10"
-  - "9"
-  - "8"
-  - "7"
-  - "6"
+env:
+  global:
+    - NODE_ENV=development
 before_install:
+  - export TZ=Asia/Jakarta
   - npm install -g npm@latest
 install:
-  - npm install --only=dev
+  - npm install
 script:
   - npm test
 after_success: npm run coverage
