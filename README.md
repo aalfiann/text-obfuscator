@@ -3,7 +3,7 @@
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)  
   
 [![npm version](https://img.shields.io/npm/v/text-obfuscator.svg?style=flat-square)](https://www.npmjs.org/package/text-obfuscator)
-[![Build Status](https://travis-ci.org/aalfiann/text-obfuscator.svg?branch=master)](https://travis-ci.org/aalfiann/text-obfuscator)
+[![Build Status](https://travis-ci.com/aalfiann/text-obfuscator.svg?branch=master)](https://travis-ci.com/aalfiann/text-obfuscator)
 [![Coverage Status](https://coveralls.io/repos/github/aalfiann/text-obfuscator/badge.svg?branch=master)](https://coveralls.io/github/aalfiann/text-obfuscator?branch=master)
 [![Known Vulnerabilities](https://snyk.io//test/github/aalfiann/text-obfuscator/badge.svg?targetFile=package.json)](https://snyk.io//test/github/aalfiann/text-obfuscator?targetFile=package.json)
 ![License](https://img.shields.io/npm/l/text-obfuscator)
